@@ -7,4 +7,4 @@ Secondly, upload your result on any web-hosting!
 
 
 # ALL THE CODE WAS MADE BY 
-<h1 href="https://stysan.github.io/>@stysan</h1>
+[https://stysan.github.io/](@stysan)
