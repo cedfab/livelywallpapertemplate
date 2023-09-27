@@ -6,4 +6,4 @@ Firstly, change source of HTML file
 Secondly, upload your result on any web-hosting!
 
 
-# ALL THE CODE WAS MADE BY [https://stysan.github.io/](@stysan)
+# ALL THE CODE WAS MADE BY [@stysan](https://stysan.github.io/)
